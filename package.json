@@ -21,14 +21,14 @@
   ],
   "main": "gulpfile.js",
   "dependencies": {
-    "autoprefixer": "8.3.x",
+    "autoprefixer": "10.4.x",
     "browser-sync": "2.23.x",
     "gulp": "3.9.x",
     "gulp-plumber": "1.2.x",
-    "gulp-postcss": "7.0.x",
+    "gulp-postcss": "9.0.x",
     "gulp-sass": "4.0.x",
     "@htmlacademy/editorconfig-cli": "1.x",
-    "stylelint": "9.2.x",
+    "stylelint": "9.10.x",
     "stylelint-config-htmlacademy": "0.1.x"
   },
   "repository": {
